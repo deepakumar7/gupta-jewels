@@ -1,4 +1,4 @@
-// Storage polyfill for local development
+// Storage polyfill for local gitevelopment
 const storage = {
   async get(key) {
     try {
