@@ -3017,7 +3017,7 @@ function LoginPage({ onLogin }) {
           fontSize: '11px',
           color: '#bbb',
         }}>
-          Purani Bajaji Gali, Siwan, Bihar — 841226
+          Gupta Jewels Invoice App © 2026 | Developed by Deepak | All Rights Reserved.
         </div>
 
       </div>
